@@ -1,6 +1,5 @@
 Flask
 Gunicorn
-pickle
 joblib
 numpy 
 pandas
